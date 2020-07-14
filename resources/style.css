@@ -189,7 +189,7 @@ header .header-right a:hover {
 #landing {
   padding-top: 20vh;
   height: calc(100vh + 70px);
-  background: linear-gradient(135deg, #8360c3 0%, #2ebf91 100%);
+  background: linear-gradient(135deg, #8360c3 0%, #33ff33 100%);
   line-height: 100vh;
   font-size: 1.25em;
   text-align: center;
